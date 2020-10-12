@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XAPZwvUG4NhsRRiDTGLBM5j1h+MoUSWRANczlzYwMejhkk419ZYec+BmupNG1kEfU+7u1EOxNz55G58YD59UrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\CSharp-Web-Niki\\2020-Sept-Season\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
