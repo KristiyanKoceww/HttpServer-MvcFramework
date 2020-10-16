@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XAPZwvUG4NhsRRiDTGLBM5j1h+MoUSWRANczlzYwMejhkk419ZYec+BmupNG1kEfU+7u1EOxNz55G58YD59UrQ==",
+  "dgSpecHash": "2RWODALbnQGZG+yAQFX2EQFLfq/NbyrbmVNKt2yZoK1YDl6MjJ5/WMTSdMBKRwL+Lc1EEEf1zRmgBJ1u733F+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\CSharp-Web-Niki\\2020-Sept-Season\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Csharp-Web-Koceww\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

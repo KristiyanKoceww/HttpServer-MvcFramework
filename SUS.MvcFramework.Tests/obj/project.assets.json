@@ -4117,11 +4117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\CSharp-Web-Niki\\2020-Sept-Season\\SUS\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Csharp-Web-Koceww\\SUS\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
       "projectName": "SUS.MvcFramework.Tests",
-      "projectPath": "C:\\Users\\User\\Desktop\\CSharp-Web-Niki\\2020-Sept-Season\\SUS\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Csharp-Web-Koceww\\SUS\\SUS.MvcFramework.Tests\\SUS.MvcFramework.Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\CSharp-Web-Niki\\2020-Sept-Season\\SUS\\SUS.MvcFramework.Tests\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Csharp-Web-Koceww\\SUS\\SUS.MvcFramework.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4140,8 +4140,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\CSharp-Web-Niki\\2020-Sept-Season\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\CSharp-Web-Niki\\2020-Sept-Season\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj"
+            "C:\\Users\\User\\Desktop\\Csharp-Web-Koceww\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Csharp-Web-Koceww\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj"
             }
           }
         }
